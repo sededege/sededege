@@ -4,13 +4,10 @@ I work as a ~~web designer~~ front-end developer with UI/UX design skills (front
 
 Since 2019 I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
 
-### What I'm focusing on 👨‍💻
-
-Currently improving my React skills, specially NextJS.<br />
 
 ### Find me elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/sebastian-gonzalez-9b0754182/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/sebagtech/) 
 
 
 **[Sebag.tech](https://sebag.tech/)**
