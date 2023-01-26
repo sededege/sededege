@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Sebastián González](https://sebag.tech/about)!
 
-I work as a ~~web designer~~ front-end developer with UI/UX design skills (front-end designer). I´m based in Montevideo, Uruguay.
+I work as a front-end developer with UI/UX design skills. I´m based in Montevideo, Uruguay.
 
 Since 2019 I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
 
